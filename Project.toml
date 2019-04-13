@@ -1,6 +1,6 @@
 authors = ["Robert Lee Gates <robert.gates@gmail.com>"]
 name = "CuthillMcKee"
-uuid = "dbb7df7b-8743-50c1-99e5-de22dbdd5e68"
+uuid = "17f17636-5e38-52e3-a803-7ae3aaaf3da9"
 version = "0.1.0"
 
 [deps]
