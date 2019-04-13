@@ -1,5 +1,7 @@
 # CuthillMcKee.jl
-The Cuthill McKee graph permutation algorithm for Julia.
+The Cuthill McKee graph permutation algorithm for Julia. 
+
+The algorithm is based on the [description](http://ciprian-zavoianu.blogspot.com/2009/01/project-bandwidth-reduction.html) of the RCM permutation by Ciprian Zavoianu.
 
 Installation:
 ```julia
