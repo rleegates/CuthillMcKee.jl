@@ -23,6 +23,7 @@ AP = rcmpermute(A)
 display(spy(A))
 ```
 <img src="https://github.com/rleegates/Images/blob/master/prercm.png?raw=true" alt="pre_rcm_sparsity" width="200"/>
+
 ```julia
 display(spy(AP))
 ```
