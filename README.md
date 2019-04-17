@@ -1,5 +1,13 @@
 # CuthillMcKee.jl
-The Cuthill McKee graph permutation algorithm for Julia. 
+
+[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://rleegates.github.io/CuthillMcKee.jl/stable)
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://rleegates.github.io/CuthillMcKee.jl/dev)
+[![Build Status](https://travis-ci.com/rleegates/CuthillMcKee.jl.svg?branch=master)](https://travis-ci.com/rleegates/CuthillMcKee.jl)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/rleegates/CuthillMcKee.jl?svg=true)](https://ci.appveyor.com/project/rleegates/CuthillMcKee-jl)
+[![Codecov](https://codecov.io/gh/rleegates/CuthillMcKee.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/rleegates/CuthillMcKee.jl)
+[![Coveralls](https://coveralls.io/repos/github/rleegates/CuthillMcKee.jl/badge.svg?branch=master)](https://coveralls.io/github/rleegates/CuthillMcKee.jl?branch=master)
+
+The Cuthill McKee graph permutation algorithm for Julia.
 
 The algorithm is based on the [description](http://ciprian-zavoianu.blogspot.com/2009/01/project-bandwidth-reduction.html) of the RCM permutation by Ciprian Zavoianu.
 
